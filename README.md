@@ -35,3 +35,6 @@ ALDH2 ius a mitochondrial enzyme involved in acetaldehyde metabolism. The E487K 
 - Structure-function interpretation
 - Literature-based scientific reasoning
 - Scientific poster design and presentation
+
+## About this Repo
+The final product for this entire project is the poster - final rendered visualizations are in `.png` format and PyMOL sessions are saved as `.pse` files to view at your leisure. These will all be found in the `raw_pse` folder, to use simply clone the repo and open the sessions in PyMOL and view images with your favorite image viewer!
