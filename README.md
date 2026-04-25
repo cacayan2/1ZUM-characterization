@@ -1,4 +1,5 @@
 [![ALDH2 E487K Structural Analysis Poster](./raw_pse/1zum-characterization.png)](./raw_pse/1zum-characterization.pdf)
+*Figure: Structural and mechanistic analysis of the ALDH2 E487K mutation, including domain organization, NAD+ binding effects, and dimer interface disruption.*
 
 # Authors:
 - Emil Cacayan
