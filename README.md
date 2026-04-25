@@ -1,4 +1,4 @@
-![ALDH2 E487K Structural Analysis Poster](./raw_pse/1zum-characterization.png)(./raw_pse/1zum-characterization.pdf)
+[![ALDH2 E487K Structural Analysis Poster](./raw_pse/1zum-characterization.png)](./raw_pse/1zum-characterization.pdf)
 
 # Authors:
 - Emil Cacayan
