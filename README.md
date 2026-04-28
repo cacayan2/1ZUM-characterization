@@ -9,7 +9,7 @@
 This project examines the structural and functional effects of the ALDH2 E487K mutation associated with ALDH2*2, using PyMOL-basedvisualization and comparison of mutant and wild-type protein structures.
 
 ## Project Summary
-ALDH2 ius a mitochondrial enzyme involved in acetaldehyde metabolism. The E487K mutation disrupts inter-subunit interactions at the dimer interface and contributes to reduced catalytic efficiency, impaired NAD+-dependent oxidation of acetaldehyde, and resulting accumulation of the toxic substrate.
+ALDH2 is a mitochondrial enzyme involved in acetaldehyde metabolism. The E487K mutation disrupts inter-subunit interactions at the dimer interface and contributes to reduced catalytic efficiency, impaired NAD+-dependent oxidation of acetaldehyde, and resulting accumulation of the toxic substrate.
 
 ## Structures Analyzed
 - 1ZUM - ALDH2*2, apo form
